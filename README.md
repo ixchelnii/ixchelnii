@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ixchelnii
+- 🌱 I’m currently learning automation with Selenium Webdriver
